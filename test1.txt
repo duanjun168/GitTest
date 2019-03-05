@@ -1,5 +1,10 @@
 abcd
 123
+<<<<<<< HEAD
 add func2
 add func1
 add func3
+=======
+add func1
+addn func4
+>>>>>>> 76d7db7a30ba4a4f3b2b2638dc1818b204725b46
